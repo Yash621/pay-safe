@@ -38,11 +38,13 @@
 
  ![alt-text-1](https://github.com/Yash621/pay-safe/blob/master/paysafe/preview/Screenshot%202022-03-27%20000926.png "title-1")         
  
- ![alt-text-2](https://github.com/Yash621/amagi-store/blob/master/assets/Screenshot%202022-02-17%20165420.png "title-2")
+ ![alt-text-2](https://github.com/Yash621/pay-safe/blob/master/paysafe/preview/Screenshot%202022-03-27%20001032.png "title-2")
  
- ![alt-text-1](https://github.com/Yash621/amagi-store/blob/master/assets/Screenshot%202022-02-17%20170043.png) 
+ ![alt-text-1](https://github.com/Yash621/pay-safe/blob/master/paysafe/preview/Screenshot%202022-03-27%20001055.png) 
  
- ![alt-text-2](https://github.com/Yash621/amagi-store/blob/master/assets/Screenshot%202022-02-17%20170108.png "title-2")
+ ![alt-text-2](https://github.com/Yash621/pay-safe/blob/master/paysafe/preview/Screenshot%202022-03-27%20001113.png "title-2")
+ 
+  ![alt-text-2](https://github.com/Yash621/pay-safe/blob/master/paysafe/preview/Screenshot%202022-04-01%20212258.png"title-2")
 
 
 ## :dizzy: TechStack
