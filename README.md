@@ -47,26 +47,6 @@
   ![alt-text-2](https://github.com/Yash621/pay-safe/blob/master/paysafe/preview/Screenshot%202022-04-01%20212258.png "title-2")
 
 
-## :dizzy: TechStack
-
-1. Front End / Client Side
-   - NextJS
-   - TensorFlowJS - Gesture Detection
-   - Redux - App state management
-   - WebSockets - Real time data sharing
-   - WebRTC - real time audio and video peer connections
-2. BackEnd Server:
-   - NodeJs
-   - Express 
-   - WebSockets - Real time data sharing
-   - JWT - Authenication
-3. Data Management (Databases): 
-    - MongoDb - Data management and storage
-    - Mongoose - Data modelling
-4. Deployment
-    - Heroku NodeJs environment - backend
-    - Vercel - frontend
-
 ## :tada: Local setup
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
