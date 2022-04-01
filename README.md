@@ -14,25 +14,10 @@
 
 ## :sparkles: Features
 
-- **One to One and Room Group Messaging**
-  - Instant text messaging
-  - **Read receipts**
-  - Instant user and room search by name
-  - **Voice Recognition**
-- **Video conferencing**
-  - One to One and group calls
-  - In Meet messaging
-  - Screen Sharing
-- **Gesture Control (X-factor / Flagship)**
-  - **Physically thumbs up** (palm) in front of camera to turn **MIc on**
-  - Victory sign to **Mic off**
-  - **Raise hand** to cut the call.
-- **Offensive Text Detection**
-  - **Flags and prompts** in case of offensive text messages to help create a safer in-app environment.
-  - Prompts both in both in-meet and outside-meet chats.
-- **Authentication**
-  - Auth using secure **JWT** authentication.
-  - Auth check in meet to **prevent unauthorized** users from entering.
+- Voting power for investors
+- Automatic profit distribution
+- Graphs for graphs of gross profit, liquidity ratio, quick asset ratio etc.
+- Performance modelling of startups using machine learning
 <br></br>
 ## :eyes: [Preview](https://meta-meet.vercel.app)
 
