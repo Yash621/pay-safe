@@ -16,7 +16,7 @@
 
 - Voting power for investors
 - Automatic profit distribution
-- Graphs analysis for of gross profit, liquidity ratio, quick asset ratio etc.
+- Graphs analysis for gross profit, liquidity ratio, quick asset ratio etc.
 - Performance modelling of startups using machine learning
 <br></br>
 ## :eyes: [Preview](https://meta-meet.vercel.app)
