@@ -44,7 +44,7 @@
  
  ![alt-text-2](https://github.com/Yash621/pay-safe/blob/master/paysafe/preview/Screenshot%202022-03-27%20001113.png "title-2")
  
-  ![alt-text-2](https://github.com/Yash621/pay-safe/blob/master/paysafe/preview/Screenshot%202022-04-01%20212258.png"title-2")
+  ![alt-text-2](https://github.com/Yash621/pay-safe/blob/master/paysafe/preview/Screenshot%202022-04-01%20212258.png "title-2")
 
 
 ## :dizzy: TechStack
