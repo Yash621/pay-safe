@@ -63,22 +63,16 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ https://github.com/Yash621/meta-meet.git
+$ https://github.com/Yash621/pay-safe.git
 
-$ cd meta-meet
+$ cd pay-safe
 
 # Install all the dependencies
-$ npm install
+$ yarn
 
-# Run server for frontend
-$ npm run dev
+# Run server for running the project
+$ yarn dev
 
-# The server will start at <http://localhost:3000>
-
-# Run server for backend
-$ npm run start
-
-# The server will start at <http://localhost:9000>
 ```
 Made with :heart: by <a href="https://github.com/Yash621" target="_blank">Yash Goel</a>
 
